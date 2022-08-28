@@ -1,19 +1,19 @@
 {
-    "ownerNumber": "6283181341902@s.whatsapp.net", 
-    "ownerName": "wanzz-Md", 
-    "botName": "NEOBOT-STORE",
+    "ownerNumber": "14708122938@s.whatsapp.net", 
+    "ownerName": "Hamzzz-Md", 
+    "botName": "HAMZ-BOTZ",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/DHf4mb8QnmC5zynElmG2tG",
-    "yootube": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "group": "https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o",
+    "yootube": "https://youtube.com/channel/HAMZXPRESET",
      
-    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0831-8134-1902",
-    "textBarisDonate2": "Ovo : 0831-8134-1902",
-    "textBarisDonate3": "Gopay : 08xxxxxxxxx",
-    "textBarisDonate4": "Pulsa : 0857-8900-4732",
+    "QrisAllPay": "https://telegra.ph/file/379893aa66f6d4d6f0bc2.jpg",
+    "textBarisDonate1": "Dana : 085890531178",
+    "textBarisDonate2": "Ovo : -",
+    "textBarisDonate3": "Gopay : 085890531178",
+    "textBarisDonate4": "Pulsa : 085890531178",
   
     "ButtonTextMenu1": "Youtube",
     "ButtonTextMenu2": "Rest Api",
@@ -21,7 +21,7 @@
     "quickReplyButton4": "Donasi",
     "quickReplyButton5": "Dashboard",
   
-    "ButtonMenuLink1": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "ButtonMenuLink1": "https://youtube.com/channel/HAMZXPRESET",
     "ButtonMenuLink2": "https://api-lexxy-official.herokuapp.com",
     "displayTextMenu3": "rules",
     "displayTextMenu4": "donasi",
@@ -31,6 +31,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Lexxy Official"
+        "author": "Hamzx Official"
     }
 }
